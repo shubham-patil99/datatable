@@ -1,0 +1,39 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.blue{
+	margin-top: 80px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.App{
+	color: #af9c9c;
+	margin-top: 3%;
+	font-size: 25px;
+	font-family: 'Chango', cursive;
+}
+
+
+.MuiTable-root{
+	color: #733232;
+	font-size: 15px;
+	font-weight: 20px;
+	background-color: gray;
+}
+
+.MuiTableCell-head {
+    color:green;
+    font-weight: 900;
+    line-height: 1.5rem;
+}
+
+.MTableHeader-header-13 {
+    background-color: #a27676;
+}
+
+.MuiPaper-root {
+    color: red;
+ }
